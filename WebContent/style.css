@@ -1,0 +1,54 @@
+* {
+    background-color: #9364B8;
+}
+
+#button {
+    background-color: #ffffff79;
+}
+#button:hover{
+    transition-delay: 150ms;
+    background-color: #b889db;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 4rem;
+    font-family: sans-serif;
+    background: -webkit-linear-gradient(#e2d66a, #ffffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+
+
+h2{
+    
+    
+    font-size: 2rem;
+    font-family: sans-serif;
+    background: -webkit-linear-gradient(#e2d456, #ffffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+
+
+
+
+.navbar, .card-body, #cat, #valor-rec, #span-valor-rec, .card-title, .card-text{
+    background-color: #ffffff79;
+    
+}
+
+
+#list-item {
+    background-color: #ffffff6b;
+}
+
+#cards a{
+    text-decoration: none;
+}
